@@ -35,9 +35,11 @@ It also showed better generalization on the test dataset and produced fewer misc
 
 The trained model is deployed using **Gradio**, which provides a simple web interface where users can input news text and instantly see whether the news is predicted as **Fake** or **Real**.
 
-### Screenshots
+### Screenshot
 
 ![Gradio Interface](screenshots/gradio_interface .png)
+
+---
 
 ## Installation
 
