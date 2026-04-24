@@ -37,9 +37,7 @@ The trained model is deployed using **Gradio**, which provides a simple web inte
 
 ### Screenshot
 
-![Gradio Interface](screenshots/gradio_interface .png)
-
----
+![Gradio Interface](screenshots/gradio_interface.png)
 
 ## Installation
 
