@@ -12,7 +12,7 @@ Two classification models were trained and compared to determine which model per
 
 * **Features used:** Text (news article content)
 * **Target:** label (Fake / Real)
-* **Total samples:** [9900]
+* **Total samples:** 9900
 
 ## Model Comparison
 
@@ -37,7 +37,7 @@ The trained model is deployed using **Gradio**, which provides a simple web inte
 
 ### Screenshots
 
-![Gradio Interface](screenshots/gradio_interface.png)
+![Gradio Interface](screenshots/gradio_interface .png)
 
 ## Installation
 
