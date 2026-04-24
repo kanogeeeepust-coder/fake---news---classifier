@@ -44,7 +44,7 @@ The trained model is deployed using **Gradio**, which provides a simple web inte
 Clone the repository:
 
 ```
-git clone [your-repo-url]
+git clone [https://github.com/kanogeeeepust-coder/fake---news---classifier.git]
 cd fake-news-classifier
 ```
 
