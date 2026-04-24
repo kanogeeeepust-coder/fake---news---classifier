@@ -17,9 +17,9 @@ Two classification models were trained and compared to determine which model per
 ## Model Comparison
 
 | Model                   | Accuracy | Precision | Recall | F1-Score |
-| ----------------------- | -------- | --------- | ------ | -------- |
-| Multinomial Naive Bayes | 0.969    | 0.97      | 0.97   | 0.97     |
-| Logistic Regression     | 0.996    | 1.00      | 0.99   | 1.00     |
+|-------------------------|----------|-----------|--------|----------|
+| Multinomial Naive Bayes | 0.964    | 0.96      | 0.96   | 0.96     |
+| Logistic Regression     | 0.992    | 0.99      | 0.99   | 0.99     |
 
 ## Final Model
 
@@ -44,7 +44,7 @@ The trained model is deployed using **Gradio**, which provides a simple web inte
 Clone the repository:
 
 ```
-git clone [https://github.com/kanogeeeepust-coder/fake---news---classifier.git]
+git clone https://github.com/kanogeeeepust-coder/fake---news---classifier.git
 cd fake-news-classifier
 ```
 
